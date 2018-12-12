@@ -1,10 +1,10 @@
-# [Start Bootstrap - New Age](  )
+# [Start Bootstrap - New Age]( http://lilliane-decorar.cf/ )
 
-[New Age]( http://lilliane-decorar.cf/ ) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap]( http://lilliane-decorar.cf/  ).
+[New Age]( http://lilliane-decorar.cf/ ) is a web app landing page theme for [Bootstrap](http://lilliane-decorar.cf/) created by [Start Bootstrap]( http://lilliane-decorar.cf/  ).
 
 ## Preview
 
-[![New Age Preview](https://startbootstrap.com/assets/img/templates/new-age.jpg)](https://blackrockdigital.github.io/startbootstrap-new-age/)
+[![New Age Preview]( COLOCAR FOTO AQUI )](http://lilliane-decorar.cf/)
 
 **[View Live Preview](http://lilliane-decorar.cf/)**
 
